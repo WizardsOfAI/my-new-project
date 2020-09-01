@@ -1,11 +1,11 @@
 
-# Project Title
+# Painting with AI
 
-Final project for the Building AI course
+Building AI course project
 
 ## Summary
 
-Describe briefly in 2-3 sentences what your project is about. About 250 characters is a nice length! 
+I'll morph images with AI
 
 
 ## Problems it will solve
