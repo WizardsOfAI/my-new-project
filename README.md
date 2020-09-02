@@ -44,9 +44,10 @@ What kind of skills, what kind of assistance would you  need to move on? How fin
 
 ## Missing from this template
 
-* more formatting options: code blocks
-* how to add files, images, code
-
+First Header | Second Header
+------------ | -------------
+Content cell 1 | Content cell 2
+Content column 1 | Content column 2
 
 
 
