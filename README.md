@@ -46,7 +46,7 @@ What kind of skills, what kind of assistance would you  need to move on? How fin
 
 First Header | Second Header
 ------------ | -------------
-Content cell 1 | Content cell 2
+![cat1](/cat_duchamp.jpg) | Content cell 2
 Content column 1 | Content column 2
 
 
